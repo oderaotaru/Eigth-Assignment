@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: rgb(206, 204, 203);
+}
+.navigation {
+
+    background-color: rgb(48, 45, 45);
+    overflow: hidden;
+    text-align: center;
+    padding: 10;
+}
+.navigation a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.navigation a:hover {
+    background-color: rgb(65, 65, 57);
+}
+#PageLayout {
+   background-color: rgb(245, 242, 242);
+   width: 800px;
+   padding: 60px;
+   border: rgb(245, 242, 242) 2px solid;
+   box-shadow: rgb(160, 160, 157) 2px 2px;
+   margin: auto;
+}
+#heading {
+    font-size: 50px;
+    font-weight: 800;
+}
+#head {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+#tribute {
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+.poster {
+    color: rgb(114, 109, 102);
+}
+.fixed {
+    position: fixed;
+    width: 800px;
+}
+#last {
+    width: 800px;
+   font-family: 'Poppins', sans-serif;
+   text-align: center;
+}
